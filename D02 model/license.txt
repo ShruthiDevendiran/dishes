@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pasta with Meatballs and Sausage
+* source:	https://sketchfab.com/3d-models/pasta-with-meatballs-and-sausage-e8ef88c544114de6acd20cc050f42f73
+* author:	Michael Bastianelli (https://sketchfab.com/mbastianelli)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pasta with Meatballs and Sausage" (https://sketchfab.com/3d-models/pasta-with-meatballs-and-sausage-e8ef88c544114de6acd20cc050f42f73) by Michael Bastianelli (https://sketchfab.com/mbastianelli) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elegant Cupcake
+* source:	https://sketchfab.com/3d-models/elegant-cupcake-a16421ab77124c068604160da4de8781
+* author:	¡Jacques (https://sketchfab.com/iJacques)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elegant Cupcake" (https://sketchfab.com/3d-models/elegant-cupcake-a16421ab77124c068604160da4de8781) by ¡Jacques (https://sketchfab.com/iJacques) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
